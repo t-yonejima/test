@@ -1,1 +1,1 @@
-test command line 
+test command line from ブラウザ
